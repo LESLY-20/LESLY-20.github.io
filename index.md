@@ -17,6 +17,6 @@ Yo quisiera estudiar todo lo relacioando con lo de belleza para que pueda poner 
 # RECUERDA LA VIDA TE PONDRA OBSTACULOS PERO LOS LIMITES LOS PONES TU..
 
 
-###### Support or Contact
+##### Support or Contact
 
-Para mas informacion contactate con Lesly Yatana Perea Campos en GITHUB..
+*Para mas informacion contactate con Lesly Yatana Perea Campos en GITHUB..*
