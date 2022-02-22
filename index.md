@@ -1,10 +1,16 @@
-bienvenidos a mi  Sitio...
+BIENVENIDOS A MI SITIO ...
 
-Hola,mi nombre es Lesly  Yatana Perea Campos pero me gusta que me digan "Les".tengo 17 años ,el dia 20 de Noviembre,
+Hola,mi nombre es Lesly  Yatana Perea Campos pero me gusta que me digan "Les".tengo 17 años , mi fecha de nacimiento es el dia 20 de Noviembre,soy originaria de la Cuidad de Mexico .
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+¿QUE ES LO QUE MAS ME GUSTA?
 
-### Markdown
+Me gusta mucho escuchar a las personas por que en algun momento deseo ser escuchada y no me gustaria que la gente piense que son ignorados,me gustan muchos los perros especialmente los de raza"pugs".me gusta musica de todo tipo de genero ,especialmente el genero dela salsa (de todas formas me gusta disfrutar el ritmo que tiene cada uno de ellas y el sentimiento que ponen los artistas al cantar cada cancion. Me gusta demasiado bailar ya que anteriormente iba a una escuela de academia de baile . Me gusta mucho el pozole ,las carnitas , la arrachera y las enchiladas de mole.En  mis tiempos libres me gusta salir a caminar a dar la vueltao simplemente escuchar musica .Me gusta pararme temprano a realizar todos mis cosa y poendientes. 
+
+¿QUE ES LO QUE NO ME GUSTA?
+
+No me gustan las verduras,hay algunas que saben muuy deliciosas pero no me gustaria para consumirlas del diario,no me gusta que la gente sea lenta para caminar ni  mucho menos que estorben el paso,no me gusta que las personas se crean mas que otras por tener cosas de marca,no me gusta todo lo relacionado con libros por ejemplo las bibliotecas,las librerias etc.No me gusta que existan personas que minumizen respecto a akgo que a ti te duele,creo que cada una de las personas sienten las cosas de distintas manera.
+
+¿QUE ES LO QUE QUIERO ESTUDIAR Y POR QUE?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
