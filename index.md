@@ -12,7 +12,7 @@ No me gustan las verduras,hay algunas que saben muuy deliciosas pero no me gusta
 
 ¿QUE ES LO QUE QUIERO ESTUDIAR Y POR QUE?
 
-Yo quisiera estudir todo lo relacioando con lo de belleza para que pueda poner un space ,especialmete todo reqcionado con lo dwe pomner uñas,
+Yo quisiera estudiar todo lo relacioando con lo de belleza para que pueda poner un space ,especialmete todo relacionado con lo de poner uñas,la aplicacion de pestañas ,o mas bien mi idea es ,poder poner un space y posteriormente meterme a la Universidad, me llama la atencion lo de criminologia,tengo la sangre muy pesadas o la sangre muy pesada ,dirian los "mitos",o tambieen me llama la atencion trabajar en las farmacias del Hospital Espapol,ya que mis primos trabajan ahi y hay mas probabilidad de k 
 
 ### Support or Contact
 
