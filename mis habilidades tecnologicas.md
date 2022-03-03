@@ -1,0 +1,1 @@
+[mis gustos](./misgustos.md) | [mis hablilidades sociales](./mishabilidadessociales.md) | [mis habilidades tecnologicas](./mishablidadestecnologicas.md) | [mi experiencia laboral](./miexperiencialaboral.md)
