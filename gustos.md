@@ -1,1 +1,1 @@
-[mis gustos]_(./misgustos.md)
+[mis gustos](./misgustos.md)
